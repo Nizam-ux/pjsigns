@@ -1,5 +1,5 @@
 /*
-* 	Owl Carousel Owl Demo Theme 
+* 	Owl Carousel Owl Demo Theme
 *	v1.24
 */
     #owl-demo .item{
@@ -9,7 +9,7 @@
         height: auto;
 		    height: auto;
     margin: 0 auto;
-   
+
     }
 
 .owl-theme .owl-controls{
@@ -46,7 +46,7 @@
     margin: 5px 7px;
     filter: Alpha(Opacity=50);
     opacity: 0.5;
-	background:#03c0ca;
+	background:black;
 }
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span{
@@ -71,7 +71,7 @@
 	min-height: 150px;
 	background: url(AjaxLoader.gif) no-repeat center center
 }
-/* 
+/*
  * 	Core Owl Carousel CSS File
  *	v1.24
  */
@@ -128,7 +128,7 @@
 }
 
 /* mouse grab icon */
-.grabbing { 
+.grabbing {
     cursor:url(grabbing.png) 8 8, move;
 }
 /* fix */
@@ -376,4 +376,3 @@
 		height: 9px;
 	}
 }
-
