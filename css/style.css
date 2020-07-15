@@ -952,7 +952,7 @@ li.callbacks1_s3{
 	background-size:cover;
 }
 .w3_agileits-adopt-right {
-    padding: 5em 0 3em 0em;
+    padding: 5em 0 3em 35em;
     position: relative;
 }
 .bbssd{
@@ -967,14 +967,14 @@ li.callbacks1_s3{
 .w3_agileits-adopt-right h3 {
     font-family: 'Righteous', cursive;
     font-weight: 400;
-    font-size: 3em;
+    font-size: 2em;
 	color:#fff;
 }
 .w3_agileits-adopt-right p {
-    font-size: 24px;
+    font-size: 15px;
     text-transform: capitalize;
     margin: 1em 0;
-		margin-right: 150px;
+		margin-right: 100px;
     color: #fed201;
 }
 /*----- adopt-----*/

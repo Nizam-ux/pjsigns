@@ -41,7 +41,7 @@ html[xmlns] .slides {display: block;}
     position: relative;
     zoom: 1;
     padding: 2em 0;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.35);
 }
 .flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
 .loading .flex-viewport {max-height: 300px;}
