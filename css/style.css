@@ -175,12 +175,12 @@ body a:hover{
     margin: 0 auto;
 }
 .menu .toggle-menu li a.active {
-    color: #39cad3;
+    color: #ed3237;
 }
 .menu .toggle-menu li a span { text-transform: lowercase; }
 
 .menu .toggle-menu li a:hover {
-	color: #20B2AA;
+	color: #ed3237;
 	border-bottom-color:#20B2AA;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
@@ -975,7 +975,7 @@ li.callbacks1_s3{
     text-transform: capitalize;
     margin: 1em 0;
 		margin-right: 100px;
-    color: #fed201;
+    color: white;
 }
 /*----- adopt-----*/
 /*-- blog --*/
