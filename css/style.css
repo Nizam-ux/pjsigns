@@ -606,6 +606,182 @@ h3.agileits-title.head {
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+.wthree-almub.fl{
+    background: url(../images/fl/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.fl1 {
+    background: url(../images/fl/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.fl2{
+    background: url(../images/fl/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.fl3{
+    background: url(../images/fl/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.bl{
+    background: url(../images/bl/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.bl1 {
+    background: url(../images/bl/2.jpeg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.bl2{
+    background: url(../images/bl/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.bl3{
+    background: url(../images/bl/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.el{
+    background: url(../images/el/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.el1 {
+    background: url(../images/el/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.el2{
+    background: url(../images/el/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.el3{
+    background: url(../images/el/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.gs{
+    background: url(../images/gs/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.gs1 {
+    background: url(../images/gs/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.gs2{
+    background: url(../images/gs/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.gs3{
+    background: url(../images/gs/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ml{
+    background: url(../images/ml/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.ml1 {
+    background: url(../images/ml/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ml2{
+    background: url(../images/ml/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ml3{
+    background: url(../images/ml/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.al{
+    background: url(../images/al/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.al1 {
+    background: url(../images/al/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.al2{
+    background: url(../images/al/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.al3{
+    background: url(../images/al/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.cl{
+    background: url(../images/cl/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.cl1 {
+    background: url(../images/cl/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.cl2{
+    background: url(../images/cl/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.cl3{
+    background: url(../images/cl/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ps{
+    background: url(../images/ps/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.ps1 {
+    background: url(../images/ps/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ps2{
+    background: url(../images/ps/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ps3{
+    background: url(../images/ps/4.jpg)no-repeat center;
+    background-size: cover;
+}
 .wthree-almub{
     background: url(../images/w1.jpg)no-repeat center;
     background-size: cover;
@@ -628,6 +804,7 @@ h3.agileits-title.head {
     background: url(../images/w4.jpg)no-repeat center;
     background-size: cover;
 }
+
 .breeds1-left {
 	float: left;
 	width: 50%;
