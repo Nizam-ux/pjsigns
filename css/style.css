@@ -33,6 +33,30 @@ body a:hover{
 	text-decoration:none;
 }
 /*-- banner --*/
+.banner1{
+	min-height: 795px;
+	background:url(../images/picban1.gif)no-repeat center 0px;
+	background-size:cover;
+	position: relative;
+}
+.banner2{
+	min-height: 795px;
+	background:url(../images/picban2.gif)no-repeat center 0px;
+	background-size:cover;
+	position: relative;
+}
+.banner3{
+	min-height: 795px;
+	background:url(../images/picban3.gif)no-repeat center 0px;
+	background-size:cover;
+	position: relative;
+}
+.banner4{
+	min-height: 795px;
+	background:url(../images/picban4.gif)no-repeat center 0px;
+	background-size:cover;
+	position: relative;
+}
 .banner{
 	min-height: 795px;
 	background:url(../images/picban.jpg)no-repeat center 0px;
@@ -782,6 +806,241 @@ h3.agileits-title.head {
     background: url(../images/ps/4.jpg)no-repeat center;
     background-size: cover;
 }
+.wthree-almub.cof{
+    background: url(../images/cof/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.cof1 {
+    background: url(../images/cof/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.cof2{
+    background: url(../images/cof/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.cof3{
+    background: url(../images/cof/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.as{
+    background: url(../images/as/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.as1 {
+    background: url(../images/as/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.as2{
+    background: url(../images/as/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.as3{
+    background: url(../images/as/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ts{
+    background: url(../images/ts/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.ts1 {
+    background: url(../images/ts/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ts2{
+    background: url(../images/ts/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ts3{
+    background: url(../images/ts/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ts{
+    background: url(../images/ts/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.ts1 {
+    background: url(../images/ts/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ts2{
+    background: url(../images/ts/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ts3{
+    background: url(../images/ts/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.rs{
+    background: url(../images/rs/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.rs1 {
+    background: url(../images/rs/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.rs2{
+    background: url(../images/rs/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.rs3{
+    background: url(../images/rs/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.es{
+    background: url(../images/es/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.es1 {
+    background: url(../images/es/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.es2{
+    background: url(../images/es/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.es3{
+    background: url(../images/es/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.vb{
+    background: url(../images/vb/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.vb1 {
+    background: url(../images/vb/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.vb2{
+    background: url(../images/vb/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.vb3{
+    background: url(../images/vb/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ban{
+    background: url(../images/ban/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.ban1 {
+    background: url(../images/ban/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ban2{
+    background: url(../images/ban/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ban3{
+    background: url(../images/ban/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.owv{
+    background: url(../images/owv/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.owv1 {
+    background: url(../images/owv/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.owv2{
+    background: url(../images/owv/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.owv3{
+    background: url(../images/owv/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.fv{
+    background: url(../images/fv/1.png)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.fv1 {
+    background: url(../images/fv/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.fv2{
+    background: url(../images/fv/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.fv3{
+    background: url(../images/fv/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.fb{
+    background: url(../images/fb/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 234px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.fb1 {
+    background: url(../images/fb/2.jpg)no-repeat center;
+    background-size: cover;
+}
+
 .wthree-almub{
     background: url(../images/w1.jpg)no-repeat center;
     background-size: cover;
