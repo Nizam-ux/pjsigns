@@ -68,8 +68,9 @@ body a:hover{
 }
 /*-- menu-navigation --*/
 .menu {
-    position: relative;
-    z-index: 9999;
+	padding-top: 30px;
+  position: relative;
+  z-index: 9999;
 	float: right;
 }
 .menu h1 {
@@ -226,15 +227,15 @@ body a:hover{
     line-height: 0.7em;
 }
 .logo h3 img{
-	width: 120px;
+	width: 150px;
 }
 .logo h3 a{
     color: #FFFFFF;
     text-decoration: none;
     outline: none;
     font-family: 'Righteous', cursive;
-    background: rgba(0, 0, 0, 0.52);
-    padding: 35px 12px;
+    /* background: rgba(0, 0, 0, 0.52); */
+    /* padding: 35px 12px; */
 	border-radius: 0px 20px 0px;
 }
 .logo h3 a:hover {
