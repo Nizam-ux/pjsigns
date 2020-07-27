@@ -68,10 +68,14 @@ body a:hover{
 }
 /*-- menu-navigation --*/
 .menu {
-	padding-top: 30px;
+	margin-top: 30px;
   position: relative;
   z-index: 9999;
 	float: right;
+}
+.menu1{
+	background-color: rgba(0, 0, 0, 0.35);
+	padding: 0px 5px 13px 10px;
 }
 .menu h1 {
   font-weight: 300;
@@ -83,6 +87,7 @@ body a:hover{
 	text-decoration:none;
 	outline:none;
 }
+
 .menu .navicon {
     background: transparent;
     position: relative;
@@ -644,6 +649,104 @@ h3.agileits-title.head {
     background: url(../images/fl/4.jpg)no-repeat center;
     background-size: cover;
 } */
+
+/*
+ * Position both images in same place
+*/
+.hover-switch > img {
+  position: absolute;
+}
+/*
+ * Show the last image by default
+*/
+.hover-switch > img:last-of-type {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+  -moz-transition: opacity 0.5s ease-in-out;
+  -webkit-transition: opacity 0.5s ease-in-out;
+}
+/*
+ * Hide the last image on hover
+*/
+.hover-switch:hover > img:last-of-type {
+  opacity: 0;
+}
+
+
+section {
+  position: relative;
+}
+
+section img {
+	position: absolute;
+}
+
+.top {
+	animation-name: fade;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+	animation-duration: 3s;
+	animation-direction: alternate;
+}
+
+@keyframes fade {
+	0% {
+		opacity: 1;
+	}
+	25% {
+		opacity: 1;
+	}
+	75% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 0;
+	}
+}
+
+/* entire container, keeps perspective */
+.flip-container {
+	perspective: 1000px;
+}
+	/* flip the pane when hovered */
+	.flip-container:hover .flipper, .flip-container.hover .flipper {
+		transform: rotateY(180deg);
+	}
+
+.flip-container, .front, .back {
+	width: 300px;
+	height: 200px;
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
+}
+
 .img-comp-container {
   position: relative;
   height: 200px; /*should be the same height as the images*/
