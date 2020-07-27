@@ -35,7 +35,7 @@ body a:hover{
 /*-- banner --*/
 .banner1{
 	min-height: 795px;
-	background:url(../images/picban1.gif)no-repeat center 0px;
+	background:url(../images/picban1.jpg)no-repeat center 0px;
 	background-size:cover;
 	position: relative;
 }
@@ -631,17 +631,8 @@ h3.agileits-title.head {
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-.wthree-almub.fl{
-    background: url(../images/fl/1.jpg)no-repeat center;
-    background-size: cover;
-    min-height: 234px;
-	-webkit-transition: all 3s;
-    -moz-transition: all 3s;
-    -o-transition: all 3s;
-    transition: all 3s;
-	display: block;
-}
-.wthree-almub.fl1 {
+
+/* .wthree-almub.fl1 {
     background: url(../images/fl/2.jpg)no-repeat center;
     background-size: cover;
 }
@@ -652,6 +643,35 @@ h3.agileits-title.head {
 .wthree-almub.fl3{
     background: url(../images/fl/4.jpg)no-repeat center;
     background-size: cover;
+} */
+.img-comp-container {
+  position: relative;
+  height: 200px; /*should be the same height as the images*/
+}
+
+.img-comp-img {
+  position: absolute;
+  width: auto;
+  height: auto;
+  overflow:hidden;
+}
+
+.img-comp-img img {
+  display:block;
+  vertical-align:middle;
+	width: 270px;
+}
+
+.img-comp-slider {
+  position: absolute;
+  z-index:9;
+  cursor: ew-resize;
+  /*set the appearance of the slider:*/
+  width: 40px;
+  height: 40px;
+  background-color: #2196F3;
+  opacity: 0.7;
+  border-radius: 50%;
 }
 .wthree-almub.bl{
     background: url(../images/bl/1.jpg)no-repeat center;

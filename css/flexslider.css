@@ -36,6 +36,7 @@ html[xmlns] .slides {display: block;}
 
 /* FlexSlider Default Theme
 *********************************/
+
 .flexslider {
     border: 0px;
     position: relative;
@@ -43,6 +44,9 @@ html[xmlns] .slides {display: block;}
     padding: 2em 0;
     background: rgba(0, 0, 0, 0.35);
 }
+/* .flexclr{
+  background: rgba(225, 225, 225, 0.15);
+} */
 .flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
 .loading .flex-viewport {max-height: 300px;}
 .flexslider .slides {zoom: 1;}
