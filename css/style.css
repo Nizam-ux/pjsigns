@@ -628,6 +628,7 @@ h3.agileits-title.head {
 .breeds-right {
 	float: right;
 	width: 50%;
+	height: 200px;
 	background: #ed3237;
 	padding:3em 2em;
 	transition:0.5s all;
@@ -779,7 +780,7 @@ section img {
 .wthree-almub.bl{
     background: url(../images/bl/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -801,7 +802,7 @@ section img {
 .wthree-almub.el{
     background: url(../images/el/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -823,7 +824,7 @@ section img {
 .wthree-almub.gs{
     background: url(../images/gs/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -845,7 +846,7 @@ section img {
 .wthree-almub.ml{
     background: url(../images/ml/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -867,7 +868,7 @@ section img {
 .wthree-almub.al{
     background: url(../images/al/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -889,7 +890,7 @@ section img {
 .wthree-almub.cl{
     background: url(../images/cl/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -911,7 +912,7 @@ section img {
 .wthree-almub.ps{
     background: url(../images/ps/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -933,7 +934,7 @@ section img {
 .wthree-almub.cof{
     background: url(../images/cof/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -955,7 +956,7 @@ section img {
 .wthree-almub.as{
     background: url(../images/as/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -977,7 +978,7 @@ section img {
 .wthree-almub.ts{
     background: url(../images/ts/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -999,7 +1000,7 @@ section img {
 .wthree-almub.ts{
     background: url(../images/ts/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1021,7 +1022,7 @@ section img {
 .wthree-almub.rs{
     background: url(../images/rs/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1043,7 +1044,7 @@ section img {
 .wthree-almub.es{
     background: url(../images/es/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1065,7 +1066,7 @@ section img {
 .wthree-almub.vb{
     background: url(../images/vb/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1087,7 +1088,7 @@ section img {
 .wthree-almub.ban{
     background: url(../images/ban/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1109,7 +1110,7 @@ section img {
 .wthree-almub.owv{
     background: url(../images/owv/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1131,7 +1132,7 @@ section img {
 .wthree-almub.fv{
     background: url(../images/fv/1.png)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1153,7 +1154,7 @@ section img {
 .wthree-almub.fb{
     background: url(../images/fb/1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1168,7 +1169,7 @@ section img {
 .wthree-almub{
     background: url(../images/w1.jpg)no-repeat center;
     background-size: cover;
-    min-height: 234px;
+    min-height: 200px;
 	-webkit-transition: all 3s;
     -moz-transition: all 3s;
     -o-transition: all 3s;
@@ -1194,6 +1195,7 @@ section img {
 	background: #fed201;
 	padding:3em 2em;
 	transition:0.5s all;
+	height: 200px;
 	-webkit-transition:0.5s all;
 	-moz-transition:0.5s all;
 	-o-transition:0.5s all;
@@ -2453,7 +2455,7 @@ div#team {
 		min-height: 240px;
 	}
 	.wthree-almub {
-		min-height: 234px;
+		min-height: 200px;
 	}
 	.blog-w3grid-img,.blog-w3grid-text {
 		width: 50%;
