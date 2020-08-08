@@ -805,6 +805,72 @@ section img {
     background: url(../images/bl/4.jpg)no-repeat center;
     background-size: cover;
 }
+.wthree-almub.il{
+    background: url(../images/il/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 200px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.il1 {
+    background: url(../images/il/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.il2{
+    background: url(../images/il/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.il3{
+    background: url(../images/il/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.tcl{
+    background: url(../images/tcl/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 200px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.tcl1 {
+    background: url(../images/tcl/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.tcl2{
+    background: url(../images/tcl/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.tcl3{
+    background: url(../images/tcl/4.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ll{
+    background: url(../images/ll/1.jpg)no-repeat center;
+    background-size: cover;
+    min-height: 200px;
+	-webkit-transition: all 3s;
+    -moz-transition: all 3s;
+    -o-transition: all 3s;
+    transition: all 3s;
+	display: block;
+}
+.wthree-almub.ll1 {
+    background: url(../images/ll/2.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ll2{
+    background: url(../images/ll/3.jpg)no-repeat center;
+    background-size: cover;
+}
+.wthree-almub.ll3{
+    background: url(../images/ll/4.jpg)no-repeat center;
+    background-size: cover;
+}
 .wthree-almub.el{
     background: url(../images/el/1.jpg)no-repeat center;
     background-size: cover;
