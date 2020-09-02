@@ -1601,6 +1601,9 @@ pre code {
   .container {
     width: 85%;
   }
+  .formd{
+    display: flex;
+  }
 }
 .container-fluid {
   padding-right: 15px;
