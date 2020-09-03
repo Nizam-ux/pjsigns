@@ -231,7 +231,8 @@ body a:hover{
 /*-- //menu-navigation --*/
 .logo {
     float: left;
-	padding:1em 0;
+	padding:1em 0.5em;
+	background: rgba(225, 225, 225, 0.5);
 }
 .logo h3 {
     font-size: 3.2em;
